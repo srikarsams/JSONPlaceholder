@@ -1,6 +1,8 @@
 {
-   "name":"test",
-   "id":"ddda",
-   "price":"34",
-   "token":"ewoibmFtZSI6ICJ0ZXN0IiwKImlkIjoiZGRkYSIsCnByaWNlOiIzNCIKfQ=="
+   "data": {
+      "name":"test",
+      "id":"ddda",
+      "price":"34",
+      "token":"ewoibmFtZSI6ICJ0ZXN0IiwKImlkIjoiZGRkYSIsCnByaWNlOiIzNCIKfQ=="
+   }
 }
